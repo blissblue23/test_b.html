@@ -1,0 +1,185 @@
+
+#wrap {
+    width: 1700px;
+    height: 100%;
+    margin: 0 auto;
+}
+header {
+    width: 1700px;
+    height: 87px;
+    margin: 0 auto;
+    display: flex;
+}
+
+header img{
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+header ul {
+    display: flex;
+}
+
+.m_menu li {
+    margin: 43px 92px 0 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.logo img {
+    width: 52px;
+    height: 81px;
+    object-fit: contain;
+    margin: -25px 300px 0 300px;
+}
+
+.s_menu li {
+    margin: 43px 5px;
+}
+
+.visual ul {
+    margin-top: -40px;
+    display: flex;
+}
+
+.eco_story {
+    margin-top: 150px;
+    text-align: center;
+}
+
+h2 {
+   font-size: 70px;
+   font-weight: bold;
+   margin-bottom: 70px;
+}
+
+.eco_story ul{
+    display: flex;
+    justify-content: center;
+}
+
+.eco_tab li {
+    padding: 30px 30px;
+    margin-left: 50px;
+    border-radius: 100px;
+    border: 2px solid;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.eco_tab li:nth-child(1){
+    background-color: #000;
+    color: #fff;
+}
+
+li.one {
+    padding-top: 40px;
+}
+
+.story_01 {
+    margin-top: 70px;
+}
+
+.dessert_menu {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.slide_menu ul {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+.menu_item img {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    background-color: #eaeaea;
+    border-radius: 100%;
+}
+
+.menu_item h5 {
+    margin: 30px 0 90px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu_item li {
+    margin-left: 100px;
+}
+
+.slide_bar {
+    width: 1500px;
+    border: 2px solid;
+    align-items: center;
+    margin:0 0 60px 100px;
+}
+
+.slide_menu button, 
+.beverage_menu button{
+    padding: 20px 100px;
+    border: 2px solid;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 100px;
+    margin-bottom: 200px;
+}
+
+.beverage_menu {
+   text-align: center;
+}
+.beverage_menu p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+.beverage_menu ul {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+.introduction h2 {
+    text-align: center;
+}
+
+.introduction_left {
+    float: left;
+    text-align: left;
+    margin:20px 0 20px 140px;
+    padding-right: 120px;
+    border-right: 1px solid #d0d0d0;
+}
+
+.introduction_right {
+    float: right;
+    margin:0 0 20px 140px;
+    padding-right: 95px;
+}
+
+.introduction h3 {
+    padding: 30px 0 20px 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.introduction p {
+    font-size: 20px;
+    line-height: 1.4em;
+    padding-bottom: 10px;
+}
+
+.introduction span {
+    font-weight: bold;
+}
+
+.intro_02 {
+    padding-top: 20px;
+}
+

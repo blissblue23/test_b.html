@@ -1,0 +1,7 @@
+:root {
+    --primary-color:#fff;
+}
+.fx {
+    display: flex;
+    align-items: center;
+}
